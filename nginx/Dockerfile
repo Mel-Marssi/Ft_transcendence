@@ -19,6 +19,6 @@ RUN chmod 777 script.sh
 RUN dos2unix script.sh
 # COPY script.js /var/www/ft_trendenden/chat
 # COPY style.css /var/www/ft_trendenden/chat
-# COPY image/ /var/www/ft_trendenden/chat/image
+# COPY image/ /var/www/ft_trendenden/chat/image 
 
 CMD ["./script.sh"]

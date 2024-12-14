@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-URL="http://Auth:9080/health"  # Replace with the actual URL of the first service
+URL="http://Auth:9080/health"  # Replace with the actual  URL of the first service
 TIMEOUT=120                              # Max time to wait in seconds
 INTERVAL=6                              # Time between checks in seconds
 START_TIME=$(date +%s)

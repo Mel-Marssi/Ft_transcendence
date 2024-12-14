@@ -9,4 +9,4 @@ python3.11 manage.py migrate
 
 # python3.11 manage.py collectstatic
 python3.11 manage.py runserver 0.0.0.0:9080
-# exec python manage.py runserver 0.0.0.0:8000
+# exec python manage.py runserver 0 .0.0.0:8000

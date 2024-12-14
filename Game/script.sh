@@ -15,7 +15,7 @@ while true; do
         break
     fi
 
-    # Check if timeout has been reached
+    # Check if timeout has been re ached
     CURRENT_TIME=$(date +%s)
     ELAPSED_TIME=$((CURRENT_TIME - START_TIME))
     if [ "$ELAPSED_TIME" -ge "$TIMEOUT" ]; then

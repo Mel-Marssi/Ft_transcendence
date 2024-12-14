@@ -15,7 +15,7 @@ def Authorization(request):
 
    token = auth_header.split(" ")[1]
 
-   auth_service_url = "https://localhost:4443/Authe/user/Autorization_service"  # Update with actual URL
+   auth_service_url = "https://localhost:4443/Authe/user/Autorization_service"  # Update with actual  URL
    try:
       res = requests.post(auth_service_url, headers={"Authorization": f"Bearer {token}"})
       if res == 200:

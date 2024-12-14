@@ -3,7 +3,7 @@ FROM python:3.11
 # RUN apt-get update && apt-get install -y zsh
 
 # RUN apt-get install -y curl && \
-#     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+#     sh -c "$(curl  -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 
 COPY requirements.txt .
