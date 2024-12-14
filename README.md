@@ -108,3 +108,10 @@ You can access the application in your browser at https://localhost:4443.
 Contributing
 
 We welcome contributions to enhance the platform further. Please ensure your changes align with the project’s goals and standards.
+
+# Team 
+Hallal Khalifa: [@khallal42](https://github.com/khallal42)
+Hamza Rakik: [@Hamz2001](https://github.com/Hamz2001)
+Mohcine Majdoubi: [@Happy4mou](https://github.com/Happy4mou)
+Mouad Ajmani: [@majmani1](https://github.com/majmani1)
+Me: [@Mel-Marssi](https://github.com/Mel-Marssi)
